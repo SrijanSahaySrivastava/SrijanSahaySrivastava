@@ -1,3 +1,4 @@
+<img src="./header.png" alt="Description of the image">
 
 <h1 align="center">Hi 👋, I'm Srijan Sahay Srivastava</h1>
 <h3 align="center">Machine Learning|Data Science Enthusiast from India</h3>
