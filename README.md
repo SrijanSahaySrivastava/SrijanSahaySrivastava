@@ -17,15 +17,24 @@
 
 ---
 
-### 🚀 Featured Work & Impact
+### 🚀 Production Work & Hackathons
 
 | Project | Focus | Highlights &amp; Stack |
 | :--- | :--- | :--- |
 | **🏢 Shipsy Investigation Agent** | Autonomous incident root-cause diagnosis across code &amp; logs | `LangGraph` `PydanticAI` `MCP`<br>🏆 *Star Performer &amp; "10x with AI"* |
-| **🔌 [OpenSearch MCP Server](https://github.com/SrijanSahaySrivastava/opensearch-mcp-server-py)** | Python MCP server for OpenSearch (query timeout &amp; stream fixes) | `Python` `MCP` `OpenSearch`<br>🛠️ *Open Source Contribution* |
 | **🧠 [Notify](https://github.com/SrijanSahaySrivastava)** | AI knowledge canvas with mind maps, flashcards &amp; semantic RAG | `FastAPI` `RAG` `Vector DB`<br>🥈 *2nd Prize @ Hack the Space '24* |
 | **⚡ [DeZap](https://github.com/SrijanSahaySrivastava)** | Decentralized multi-service workflow automation engine | `Node.js` `APIs` `Microservices`<br>🥇 *Hackathon Winner* |
 | **⚖️ [LawGPT](https://github.com/SrijanSahaySrivastava/LawGPT)** | Legal intelligence assistant for Indian statutes &amp; case law | `Python` `NLP` `RAG`<br>🏛️ *Smart India Hackathon* |
+
+---
+
+### 🌐 Open Source Contributions
+
+| Organization / Project | Contribution &amp; PR | Focus / Impact |
+| :--- | :--- | :--- |
+| **🤗 [Hugging Face Transformers](https://github.com/huggingface/transformers)** | [PR #26519](https://github.com/huggingface/transformers/pull/26519) &bull; `Merged` | Encoder-decoder model documentation &amp; doctest integration |
+| **⚡ [Gradio](https://github.com/gradio-app/gradio)** | [PR #6294](https://github.com/gradio-app/gradio/pull/6294) &bull; [PR #5790](https://github.com/gradio-app/gradio/pull/5790) &bull; `Merged` | Core fixes in `state.py` exception handling &amp; callable function routing |
+| **🔍 [OpenSearch MCP Server](https://github.com/opensearch-project/opensearch-mcp-server-py)** | [PR #274](https://github.com/opensearch-project/opensearch-mcp-server-py/pull/274) | Fix query timeout handling and HTTP stream endpoint stability |
 
 ---
 
