@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=180&section=header&text=Srijan%20Sahay%20Srivastava&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20Engineer%20%7C%20AI%20Product%20%7C%20Forward%20Deployed%20Engineering&descAlignY=62&descSize=16&descColor=818cf8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=180&section=header&text=Srijan%20Sahay%20Srivastava&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20Engineer%20%7C%20AI%20Product%20%26%20Intelligent%20Systems&descAlignY=62&descSize=16&descColor=818cf8&animation=twinkling" width="100%" />
+
+  <p align="center">
+    <a href="https://github.com/SrijanSahaySrivastava">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Applied+AI+Engineer+%40+Shipsy;Building+Autonomous+Agents+%26+MCP+Infra;Ready+for+FDE%2C+AI+Product+%26+Software+Engineering" alt="Typing SVG" />
+    </a>
+  </p>
 
   <p align="center">
     <a href="https://linkedin.com/in/srijan-sahay-srivastava"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
@@ -10,6 +16,8 @@
 
   <p align="center">
     <strong>Applied AI Engineer @ <a href="https://shipsy.io">Shipsy</a></strong> &bull; Building autonomous agents, MCP infrastructure &amp; production backends
+    <br>
+    💼 <strong>Ready &amp; open for:</strong> <em>Forward Deployed Engineer (FDE), AI Product &amp; Software Engineering roles</em>
     <br>
     🏆 <em>Star Performer &amp; "10x with AI"</em> @ Shipsy &nbsp;&bull;&nbsp; 🥈 <em>2nd Prize</em> @ Hack the Space 2024 &nbsp;&bull;&nbsp; 🥇 <em>Winner</em> @ DeZap Hackathon
   </p>
