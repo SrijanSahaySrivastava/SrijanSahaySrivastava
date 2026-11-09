@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=180&section=header&text=Srijan%20Sahay%20Srivastava&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20Engineer%20%7C%20AI%20Product%20%26%20Intelligent%20Systems&descAlignY=62&descSize=16&descColor=818cf8&animation=twinkling" width="100%" />
+  <img src="https://raw.githubusercontent.com/SrijanSahaySrivastava/SrijanSahaySrivastava/main/header.png" width="100%" alt="Srijan Sahay Srivastava" />
 
   <p align="center">
     <a href="https://github.com/SrijanSahaySrivastava">
