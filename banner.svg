@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="200" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070a10" />
+    </linearGradient>
+    <linearGradient id="accentGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4" />
+    </filter>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="850" height="200" rx="16" fill="url(#bgGradient)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Subtle Ambient Glow -->
+  <circle cx="120" cy="40" r="140" fill="#38bdf8" opacity="0.08" filter="url(#shadow)" />
+  <circle cx="760" cy="160" r="130" fill="#818cf8" opacity="0.07" filter="url(#shadow)" />
+
+  <!-- Terminal Window Dots -->
+  <circle cx="36" cy="30" r="5" fill="#ef4444" opacity="0.75" />
+  <circle cx="52" cy="30" r="5" fill="#f59e0b" opacity="0.75" />
+  <circle cx="68" cy="30" r="5" fill="#10b981" opacity="0.75" />
+
+  <!-- Main Headline -->
+  <text x="36" y="85" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Display', Roboto, sans-serif" font-size="34" font-weight="800" fill="#f8fafc" letter-spacing="-0.5">
+    Srijan Sahay Srivastava
+  </text>
+
+  <!-- Subtitle with Gradient Accent -->
+  <text x="36" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="16" font-weight="600" fill="url(#accentGlow)" letter-spacing="0.3">
+    Applied AI Engineer &bull; AI Product &bull; Forward Deployed Engineering
+  </text>
+
+  <!-- Description / Core Identity -->
+  <text x="36" y="145" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400" fill="#94a3b8">
+    Building autonomous investigation agents, Model Context Protocol (MCP) tooling &amp; production backends
+  </text>
+
+  <!-- Pills / Highlights on the right or bottom -->
+  <!-- Pill 1: Shipsy -->
+  <g transform="translate(36, 160)">
+    <rect width="210" height="24" rx="6" fill="url(#pillGrad)" stroke="#334155" stroke-width="1" />
+    <circle cx="12" cy="12" r="3.5" fill="#10b981" />
+    <text x="22" y="16.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#cbd5e1">
+      Autonomous Agents @ Shipsy
+    </text>
+  </g>
+
+  <!-- Pill 2: Recognition -->
+  <g transform="translate(258, 160)">
+    <rect width="215" height="24" rx="6" fill="url(#pillGrad)" stroke="#334155" stroke-width="1" />
+    <text x="10" y="16.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#f43f5e">★</text>
+    <text x="24" y="16.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#cbd5e1">
+      Star Performer &amp; "10x with AI"
+    </text>
+  </g>
+
+  <!-- Pill 3: Hackathon -->
+  <g transform="translate(485, 160)">
+    <rect width="180" height="24" rx="6" fill="url(#pillGrad)" stroke="#334155" stroke-width="1" />
+    <text x="10" y="16.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#f59e0b">🏆</text>
+    <text x="28" y="16.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#cbd5e1">
+      Hackathon Winner &amp; 2x Podiums
+    </text>
+  </g>
+</svg>
