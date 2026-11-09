@@ -1,49 +1,68 @@
-<img src="./header.png" alt="Description of the image">
+<div align="center">
+  <img src="./header.png" width="100%" alt="Header" />
 
-<h1 align="center">Hi 👋, I'm Srijan Sahay Srivastava</h1>
-<h3 align="center">Machine Learning|Data Science Enthusiast from India</h3>
-<!-- <img align= "right" alt= "Coding" width = "400" src= "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> -->
+  # Srijan Sahay Srivastava
+  
+  **Applied AI Engineer &bull; AI Product &bull; Forward Deployed Engineering (FDE)**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/srijan-sahay-srivastava)
+  [![X / Twitter](https://img.shields.io/badge/Twitter%2FX-000000?style=flat&logo=x&logoColor=white)](https://x.com/srijansahaysri)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:srijansahaysri13@gmail.com)
+  [![Profile Views](https://komarev.com/ghpvc/?username=SrijanSahaySrivastava&color=0284c7&style=flat)](https://github.com/SrijanSahaySrivastava)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijansahaysrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="srijansahaysrivastava" /> </p>
+</div>
 
-- 🔭 I’m currently working on **Something Special... 😉**
+---
 
-- 🌱 I’m currently learning **PyTorch, SQL, C++**
+### ⚡ Quick Overview
 
-- 👯 I’m looking to collaborate on **I'm Free TBH**
+- 🔭 **Current Role**: Applied AI Engineer at **[Shipsy](https://shipsy.io)**, building autonomous investigation agents, enterprise MCP infrastructure, and natural-language query systems.
+- 🎯 **Target Roles**: Applied AI Engineer, AI Product Engineer, Forward Deployed Engineer (FDE).
+- 🏆 **Awards**: **Star Performer** & **"10x with AI"** @ Shipsy &bull; **2nd Runner-Up** @ Hack the Space 2024 & Hackhound 3.0.
+- 🌐 **Open Source**: Contributor to the Python Model Context Protocol (MCP) ecosystem.
 
-- 💬 Ask me about **TensorFlow, Pandas, NumPy, Python, C**
+---
 
-- 📫 How to reach me **srijansahaysri13@gmail.com**
+### 🚀 Featured Work & Contributions
 
-<h3 align="left">Connect with me:</h3>
+| Project / Role | Focus & Impact | Highlights & Stack |
+| :--- | :--- | :--- |
+| **Enterprise Investigation Agent**<br>*(Shipsy)* | Built an autonomous agent for automated issue diagnosis and root-cause analysis (RCA) across internal logs, codebases, and configs. | `LangGraph` `MCP` `FastAPI`<br>🏆 *Star Performer & "10x with AI"* |
+| **[OpenSearch MCP Server](https://github.com/SrijanSahaySrivastava/opensearch-mcp-server-py)**<br>*(Open Source)* | Implemented fixes for query timeout handling and streaming HTTP endpoints on the OpenSearch Model Context Protocol server. | `Python` `MCP` `OpenSearch`<br>🛠️ *Open Source Contribution* |
+| **[Notify](https://github.com/SrijanSahaySrivastava)**<br>*(Hack the Space 2024)* | AI-powered personal knowledge canvas with dynamic mind maps, flashcard synthesis, and deep semantic RAG querying. | `FastAPI` `RAG` `LLMs`<br>🥈 *2nd Prize Winner* |
+| **[DeZap](https://github.com/SrijanSahaySrivastava)**<br>*(Hackathon Winner)* | Decentralized workflow automation engine executing programmatic triggers and actions across distributed services. | `Node.js` `APIs` `Microservices`<br>🥇 *Hackathon Winner* |
+| **[LawGPT](https://github.com/SrijanSahaySrivastava/LawGPT)**<br>*(Smart India Hackathon)* | Domain-specific legal intelligence assistant retrieving and synthesizing insights from Indian statutes and case precedents. | `Python` `NLP` `RAG`<br>⚖️ *SIH Project* |
+
+---
+
+### 🧰 Tech Stack
+
 <p align="left">
-<a href="https://twitter.com/srijansahaysri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srijansahaysri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srijan sahay srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan sahay srivastava" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/respectfully" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="respectfully" height="30" width="40" /></a>
-<a href="https://kaggle.com/respectfully" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="respectfully" height="30" width="40" /></a>
-<a href="https://instagram.com/srijansahaysri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijansahaysri" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srijansahaysri13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srijansahaysri13" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srijansahaysri13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srijansahaysri13" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/srijansahtgrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srijansahtgrv" height="30" width="40" /></a>
+  <strong>AI & Agents:</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="PydanticAI" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-10B981?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG_&_Tool_Calling-6366F1?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left">
+  <strong>Backend, Data & Cloud:</strong><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
-[![An image of @srijansahaysri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srijansahaysri)](https://holopin.io/@srijansahaysri)
+---
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SrijanSahaySrivastava&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SrijanSahaySrivastava&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SrijanSahaySrivastava&show_icons=true" />
-</picture>
+### 📊 Streak & Activity
 
-## A Random Riddle!
-[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dark)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+<div align="center">
+  <a href="https://github.com/SrijanSahaySrivastava">
+    <img src="https://streak-stats.demolab.com/?user=SrijanSahaySrivastava&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
